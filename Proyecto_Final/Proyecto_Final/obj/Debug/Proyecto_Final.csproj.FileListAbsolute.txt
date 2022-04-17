@@ -1,0 +1,13 @@
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe.config
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.exe
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\bin\Debug\Proyecto_Final.pdb
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.exe
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.pdb
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.NuevoDonante.resources
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.VentanaPrincipal.resources
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.BuscarDonante.resources
+C:\Users\MINERD\Desktop\Proyecto Final\Proyecto_Final\Proyecto_Final\obj\Debug\Proyecto_Final.ReporteDonantes.resources
